@@ -1,0 +1,10 @@
+{
+    "urgent": 5,
+    "lottery": 10,
+    "password": 8,
+    "compromised": 7,
+    "reset": 6,
+    "bank": 9,
+    "winner": 8,
+    "claim": 5
+}

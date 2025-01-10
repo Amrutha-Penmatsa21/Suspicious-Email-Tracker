@@ -1,0 +1,58 @@
+Sender: urgent_support@bankalerts.com
+Recipient: user123@example.com
+Subject: Reset your password immediately
+Content: 
+Dear User,
+Your account may have been compromised. Please reset your password immediately by clicking the link below:
+[Reset Password]
+Failure to do so within 24 hours will result in account suspension.
+Best regards,
+Bank Support Team
+
+---
+
+Sender: lottery_office@claimwinnings.com
+Recipient: lucky.winner@example.com
+Subject: Congratulations! You're a winner!
+Content:
+Dear Winner,
+Congratulations! You’ve won the lottery worth $1,000,000. To claim your prize, provide your bank details at the earliest.
+Claim now and change your life forever!
+Warm regards,
+Lottery Office
+
+---
+
+Sender: promotions@onlineshop.com
+Recipient: jane_doe@example.com
+Subject: Limited-time offer just for you
+Content:
+Hi Jane,
+We’re offering a 50% discount on all products for the next 24 hours. Don’t miss out!
+Click here to shop now: [Shop Now]
+Happy Shopping,
+Online Shop Team
+
+---
+
+Sender: alerts@securemail.com
+Recipient: john_smith@example.com
+Subject: Your account has been locked
+Content:
+Dear John,
+We noticed suspicious activity in your email account. For your security, we’ve locked your account.
+Please reset your password to regain access.
+[Reset Password Link]
+Best regards,
+Secure Mail Team
+
+---
+
+Sender: friend123@example.com
+Recipient: user567@example.com
+Subject: Weekend plans
+Content:
+Hey there!
+Are we still on for the weekend movie night? Let me know what time works for you.
+Cheers,
+Your Friend
